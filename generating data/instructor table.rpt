@@ -1,0 +1,71 @@
+﻿InstructorID,InstructorName,Department,Email
+2,Ahmed Hassan,Data and Analytics,ahmed.hassan@gmail.com
+3,Omar Youssef,Artificial Intelligence,omar.youssef@gmail.com
+4,Ali Mahmoud,Cybersecurity and Information Assurance,ali.mahmoud@gmail.com
+5,Youssef Adel,Design and Human-Computer Interaction,youssef.adel@gmail.com
+6,Khaled Mostafa,Cloud and Infrastructure,khaled.mostafa@gmail.com
+7,Mohamed Tarek,Data and Analytics,mohamed.tarek@gmail.com
+8,Hassan Ali,Computer Science and Software Engineering,hassan.ali@gmail.com
+9,Karim Mostafa,Business and Information Systems,karim.mostafa@gmail.com
+10,Nour Samir,Artificial Intelligence,nour.samir@gmail.com
+11,Salma Hany,Design and Human-Computer Interaction,salma.hany@gmail.com
+12,Ehab Fathy,Cybersecurity and Information Assurance,ehab.fathy@gmail.com
+13,Mariam Adel,Cloud and Infrastructure,mariam.adel@gmail.com
+14,Tamer Hassan,Data and Analytics,tamer.hassan@gmail.com
+15,Sara Mahmoud,Electrical and Computer Engineering,sara.mahmoud@gmail.com
+16,Laila Youssef,Business and Information Systems,laila.youssef@gmail.com
+1002,Ahmed Tarek,Computer Science and Software Engineering,ahmed.tarek@gmail.com
+1003,Mariam Khaled,Data and Analytics,mariam.khaled@yahoo.com
+1004,Youssef Hany,Artificial Intelligence,youssef.hany@outlook.com
+1005,Fatima Saeed,Cybersecurity and Information Assurance,fatima.saeed@gmail.com
+1006,Omar Hassan,Cloud and Infrastructure,omar.hassan@yahoo.com
+1007,Layla Ahmed,Electrical and Computer Engineering,layla.ahmed@outlook.com
+1008,Mohamed Ibrahim,Business and Information Systems,mohamed.ibrahim@gmail.com
+1009,Nour Ali,Design and Human-Computer Interaction,nour.ali@yahoo.com
+1010,Tarek Samir,Mechanical and Robotics Engineering,tarek.samir@outlook.com
+1011,Aya Mostafa,Information Technology and Systems,aya.mostafa@gmail.com
+1012,Khaled Mahmoud,Computer Science and Software Engineering,khaled.mahmoud@yahoo.com
+1013,Salma Youssef,Data and Analytics,salma.youssef@outlook.com
+1014,Hassan Ali,Artificial Intelligence,hassan.ali@gmail.com
+1015,Dina Tarek,Cybersecurity and Information Assurance,dina.tarek@yahoo.com
+1016,Rami Khaled,Cloud and Infrastructure,rami.khaled@outlook.com
+1017,Sara Ahmed,Electrical and Computer Engineering,sara.ahmed@gmail.com
+1018,Amr Saeed,Business and Information Systems,amr.saeed@yahoo.com
+1019,Heba Mohamed,Design and Human-Computer Interaction,heba.mohamed@outlook.com
+1020,Karim Hassan,Mechanical and Robotics Engineering,karim.hassan@gmail.com
+1021,Mona Ibrahim,Information Technology and Systems,mona.ibrahim@yahoo.com
+1022,Wael Ali,Computer Science and Software Engineering,wael.ali@outlook.com
+1023,Shaimaa Tarek,Data and Analytics,shaimaa.tarek@gmail.com
+1024,Hossam Mahmoud,Artificial Intelligence,hossam.mahmoud@yahoo.com
+1025,Reem Samir,Cybersecurity and Information Assurance,reem.samir@outlook.com
+1026,Mostafa Youssef,Cloud and Infrastructure,mostafa.youssef@gmail.com
+1027,Laila Khaled,Electrical and Computer Engineering,laila.khaled@yahoo.com
+1028,Nabil Ahmed,Business and Information Systems,nabil.ahmed@outlook.com
+1029,Ghada Hassan,Design and Human-Computer Interaction,ghada.hassan@gmail.com
+1030,Fady Ibrahim,Mechanical and Robotics Engineering,fady.ibrahim@yahoo.com
+1031,Noha Ali,Information Technology and Systems,noha.ali@outlook.com
+1032,Sameh Saeed,Computer Science and Software Engineering,sameh.saeed@gmail.com
+1033,Dalia Mohamed,Data and Analytics,dalia.mohamed@yahoo.com
+1034,Ashraf Tarek,Artificial Intelligence,ashraf.tarek@outlook.com
+1035,Rania Mahmoud,Cybersecurity and Information Assurance,rania.mahmoud@gmail.com
+1036,Hisham Hassan,Cloud and Infrastructure,hisham.hassan@yahoo.com
+1037,Maha Youssef,Electrical and Computer Engineering,maha.youssef@outlook.com
+1038,Gamal Khaled,Business and Information Systems,gamal.khaled@gmail.com
+1039,Inas Ahmed,Design and Human-Computer Interaction,inas.ahmed@yahoo.com
+1040,Tamer Ali,Mechanical and Robotics Engineering,tamer.ali@outlook.com
+1041,Safaa Ibrahim,Information Technology and Systems,safaa.ibrahim@gmail.com
+1042,Bassem Samir,Computer Science and Software Engineering,bassem.samir@yahoo.com
+1043,Amani Hany,Data and Analytics,amani.hany@outlook.com
+1044,Reda Mohamed,Artificial Intelligence,reda.mohamed@gmail.com
+1045,Eman Tarek,Cybersecurity and Information Assurance,eman.tarek@yahoo.com
+1046,Magdy Hassan,Cloud and Infrastructure,magdy.hassan@outlook.com
+1047,Nagwa Saeed,Electrical and Computer Engineering,nagwa.saeed@gmail.com
+1048,Sherif Mahmoud,Business and Information Systems,sherif.mahmoud@yahoo.com
+1049,Ola Ali,Design and Human-Computer Interaction,ola.ali@outlook.com
+1050,Hatem Youssef,Mechanical and Robotics Engineering,hatem.youssef@gmail.com
+1051,Lamia Khaled,Information Technology and Systems,lamia.khaled@yahoo.com
+
+(65 rows affected)
+
+
+Completion time: 2025-10-13T18:04:20.2613495+03:00
